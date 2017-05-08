@@ -1,1 +1,2 @@
-This project if for DSP course in SYSU,taught by Professor Wangzixin,you need a mega16 microcontroller system, a LCD, and a Infrared remote controller   
+#Music-Clock-by-Mega16
+本项目是学习数字信号处理课程的项目，由朱同学，曾同学和我共同完成，硬件使用了Mega16单片机，这块电路板是我们老师自己设计的，估计市面上买不到哈，不过你可以参考代码里各种功能的实现方式，项目中使用了蓝牙模块，用蓝牙模块把各种功能都连接了起来(可遥控，有音乐播放功能，万年历功能，闹钟功能，秒表功能等)。有空可以试试，硬件还是很好玩的，嘻嘻。
